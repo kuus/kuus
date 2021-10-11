@@ -2,7 +2,7 @@
 <!-- <img src="assets/avatar.png" width="40"> -->
 
 <h3>Hi,</h3>
-<h4>I am a Frontend developer working remotely from north Italy</h4>
+<h4>I am a senior Frontend developer working remotely from north Italy</h4>
 <p>
   see everything related to my job experience and my publicly available work on:<br><br>
   <a href="https://www.linkedin.com/in/kunderikuus/"><img src="assets/linkedin.svg"></a>
