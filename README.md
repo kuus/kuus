@@ -1,4 +1,5 @@
-<img src="assets/avatar.png" width="40">
+<div align="center">
+<!-- <img src="assets/avatar.png" width="40"> -->
 
 <h3>Hi,</h3>
 <h4>I am a Frontend developer working remotely from north Italy</h4>
@@ -13,3 +14,5 @@
   <br><br>
   <em>kuus</em>
 </p>
+  
+</div>
